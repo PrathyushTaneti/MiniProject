@@ -1,3 +1,3 @@
-# MINI PROJECT
+# ATTENDANCE SYSTEM VIA FACIAL RECOGNITION
 
 ## Author : Prathyush Taneti
